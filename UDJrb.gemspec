@@ -5,7 +5,7 @@ require "UDJrb/version"
 Gem::Specification.new do |s|
   s.name        = "UDJrb"
   s.version     = UDJrb::VERSION
-  s.platform    = Gem::Platform::CURRENT
+  s.platform    = Gem::Platform::RUBY
   s.authors     = ["Brandon Tilley"]
   s.email       = ["brandon@brandontilley.com"]
   s.homepage    = ""
