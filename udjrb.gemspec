@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "UDJrb/version"
+require "udjrb/version"
 
 Gem::Specification.new do |s|
-  s.name        = "UDJrb"
+  s.name        = "udjrb"
   s.version     = UDJrb::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Brandon Tilley"]

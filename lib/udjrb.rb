@@ -1,5 +1,5 @@
 include Java
-require "./udjrb/asjava.jar"
+require File.expand_path "./udjrb/asjava.jar", File.dirname(__FILE__)
 
 module UDJrb
   # Lazy-load the UniJava object
